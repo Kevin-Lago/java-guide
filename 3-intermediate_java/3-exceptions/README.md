@@ -119,7 +119,7 @@ public class FinallyStatement {
 }
 ```
 
-- In this example line 3 will return 2 as expected, But line 4 will return 0. The finally blocks return statement will overwrite whatever was returned by the try or catch blocks.
+- In this example line 3 will return 2 as expected, But line 4 will return 0. The finally block's return statement will overwrite whatever was returned by the try or catch blocks.
 
 - Finally statements are useful for closing connections to databases or files/streams. For example:
 
