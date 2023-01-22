@@ -54,7 +54,7 @@ public @interface Override {}
 public @interface Documented {}
 ```
 
-- [@Deprecated](https://docs.oracle.com/javase/8/docs/api/java/lang/Deprecated.html)
+- [@Deprecated](https://docs.oracle.com/javase/8/docs/api/java/lang/Deprecated.html) Java version <8 ?????????
 
     - Informs the user that the annotated method is deprecated.
 
@@ -100,6 +100,27 @@ public @interface FunctionalInterface {}
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.ANNOTATION_TYPE)
 public @interface Inherited {}
+```
+
+- [@Native](https://docs.oracle.com/javase/10/docs/api/java/lang/annotation/Native.html)
+
+    - ?????????
+
+```java
+@Documented
+@Target(ElementType.FIELD)
+@Retention(RetentionPolicy.SOURCE)
+public @interface Native {}
+```
+
+-   [@InjectedProfile]()
+
+    - ???????
+
+```java
+@Target({ElementType.METHOD, ElementType.CONSTRUCTOR})
+@Retention(RetentionPolicy.RUNTIME)
+@interface InjectedProfile {}
 ```
 
 - We can also create our own custom Annotations! Lets look at an example of a MarkerAnnotation.
