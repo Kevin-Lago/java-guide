@@ -3,7 +3,7 @@
 
 # Annotations
 
-- Annotations, a form of metadata, provide data about a program that is not part of the program itself. Annotations have no direct effect on the operation of the code they annotate. - [Oracle Docs](https://docs.oracle.com/javase/tutorial/java/annotations/)
+> Annotations, a form of metadata, provide data about a program that is not part of the program itself. Annotations have no direct effect on the operation of the code they annotate. - [Oracle Docs](https://docs.oracle.com/javase/tutorial/java/annotations/)
 
 - Annotations are useful for providing additional logic to our code. Some examples include:
 
@@ -29,11 +29,13 @@
 
 - Marker Annotations are used to simply provide high level information to either the user or compiler.
 
-- Java comes with many built-in Annotations here're some example built-in Marker Annotations
+- Java comes with many built-in Annotations! 
+
+- Here're some examples of built-in Marker Annotations:
 
 - [@Override](https://docs.oracle.com/javase/7/docs/api/java/lang/Override.html)
     
-    - Informs the user that the annotated method is being overridden from its parent class.
+    - Indicates that the annotated method is being overridden from its parent class.
 
     - Throws a warning if the annotated method is not overridding a method.
 
@@ -45,7 +47,7 @@ public @interface Override {}
 
 - [@Documented](https://docs.oracle.com/javase/8/docs/api/java/lang/annotation/Documented.html)
 
-    - Informs the user that the annotated annotation is to be documented by javadoc and similar tools.
+    - Indicates that the annotated annotation is to be documented by javadoc and similar tools.
 
 ```java
 @Documented
@@ -56,7 +58,7 @@ public @interface Documented {}
 
 - [@Deprecated](https://docs.oracle.com/javase/8/docs/api/java/lang/Deprecated.html) Java version <8 ?????????
 
-    - Informs the user that the annotated method is deprecated.
+    - Indicates that the annotated method is deprecated.
 
     - Throws a warning if the annotated method is used.
 
@@ -80,7 +82,7 @@ public @interface SafeVarargs {}
 
 - [@FunctionalInterface](https://docs.oracle.com/javase/8/docs/api/java/lang/FunctionalInterface.html)
 
-    - Informs the user that the annotated class, enum or annotation is intended to be a [Functional Interface](https://www.geeksforgeeks.org/functional-interfaces-java/)
+    - Indicates that the annotated class, enum or annotation is intended to be a [Functional Interface](https://www.geeksforgeeks.org/functional-interfaces-java/)
 
     - Throws a warning if the annotated class, enum or annotation does not satisfy the requirements of a Functional Interface
 
@@ -93,7 +95,7 @@ public @interface FunctionalInterface {}
 
 - [@Inherited](https://docs.oracle.com/javase/8/docs/api/java/lang/annotation/Inherited.html)
 
-    - 
+    - ??????????
 
 ```java
 @Documented
@@ -123,7 +125,9 @@ public @interface Native {}
 @interface InjectedProfile {}
 ```
 
-- We can also create our own custom Annotations! Lets look at an example of a MarkerAnnotation.
+- We can also create our own custom Annotations! Lets look at an example of a Marker Annotation.
+
+- Here we're defining an annotation ```MarkerAnnotation``` which will be used during runtime and ????
 
 ```java
 @Retention(RetentionPolicy.RUNTIME)
@@ -131,37 +135,13 @@ public @interface Native {}
 public @interface MarkerAnnotation {}
 ```
 
-- Here we're defining an annotation ```MarkerAnnotation``` which will be used during runtime and ????
+- Single-Value Annotations store a single value. 
 
-- An example of a Marker Annotation is the built-in @Override Annotation which is used to:
+- Here're some examples of built-in Single-Value Annotations:
 
-    - Notify the user the annotated method is being overridden from its parent class.
+- [@Value]()
 
-    - Throw a warning if the annotated method is not overridding a method.
-
-- Single-Value Annotations store a single value.
-
-```java
-@Retention(RetentionPolicy.RUNTIME)
-@Target(ElementType.METHOD)
-public @interface SingleValueAnnotation {
-    String value();
-}
-```
-
-- Single-Value Annotations such as @Value can be used to provide a default value.
-
-```java
-public class POJO {
-    String name;
-
-    @Value("Default Name")
-    public String getName() {
-        return name;
-    }
-}
-```
-
+    - 
 
 
 | <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/src/) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/src/) |
