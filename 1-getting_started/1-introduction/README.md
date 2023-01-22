@@ -37,9 +37,9 @@
 
 - OracleJDK includes some features which may not be present in the OpenJDK versions such as [Java Flight Recorder (JFR)](https://docs.oracle.com/javacomponents/jmc-5-4/jfr-runtime-guide/about.htm#JFRUH170).
 
-- OpenJDK is community supported and has a [General Public Licesnse (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html).
+- OpenJDK is community supported and has a [General Public License (GPL)](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
-- There're many [derivatives of OpenJDK](https://en.wikipedia.org/wiki/OpenJDK#OpenJDK_builds) such as:
+- There are many [derivatives of OpenJDK](https://en.wikipedia.org/wiki/OpenJDK#OpenJDK_builds) such as:
 
     - AdoptOpenJDK
     - Amazon Corretto
