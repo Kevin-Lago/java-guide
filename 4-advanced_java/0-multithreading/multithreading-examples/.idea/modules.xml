@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/exception-examples.iml" filepath="$PROJECT_DIR$/exception-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading-examples.iml" filepath="$PROJECT_DIR$/multithreading-examples.iml" />
     </modules>
   </component>
 </project>

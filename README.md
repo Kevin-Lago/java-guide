@@ -4,7 +4,7 @@
 
 <h3> Unit 1 - Getting Started </h3>
 
-- [x] [Introduction to Java](https://github.com/Kevin-Lago/java-guide/tree/main/1-getting_started/1-introduction)
+- [x] [Introduction](https://github.com/Kevin-Lago/java-guide/tree/main/1-getting_started/1-introduction)
 - [ ] [Datatypes and Variables](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Statements and Expressions](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Loops and Logic](https://github.com/Kevin-Lago/java-guide/tree/main/)
@@ -29,6 +29,7 @@
 - [ ] [Maps]()
 - [ ] [Exceptions]()
 - [ ] [Structured Data]()
+- [ ] [Functional Interfaces]()
 - [ ] [Lambdas]()
 - [ ] [Generics]()
 - [ ] [Streams]()
@@ -45,6 +46,7 @@
 - [ ] [Reflection API]()
 - [ ] [Serialization]()
 - [ ] [Multithreading]()
+
 TBD...
 
 </details>
@@ -117,7 +119,7 @@ lesson ? - Jenkins
 
 </details>
 
-## Unit ? - Versions <!-- Not sure what I'll do with this.. but I'd like to explain the differences of versions -->
+## Unit ? - Versions <!-- Not sure what I'll do with this.. but I'd like to explain the differences of each version -->
 lesson 1 - Early Java
 lesson 2 - Java 7 and Java 8
 lesson 4 - Java Beyond

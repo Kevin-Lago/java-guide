@@ -1,0 +1,13 @@
+Person{name='Kevin', age=25}
+Person{name='John', age=34}
+Person{name='Sarah', age=19}
+Person{name='Bob', age=54}
+Person{name='Kayla', age=32}
+Person{name='Jerry', age=50}
+Person{name='Rick', age=76}
+Person{name='Beth', age=50}
+Person{name='Morty', age=15}
+Person{name='Andy', age=36}
+Person{name='Emily', age=34}
+Person{name='', age=20}
+Person{name='gerry', age=0}
