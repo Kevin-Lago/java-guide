@@ -1,5 +1,5 @@
 | [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/src/) <img width=1000/> | [Home](https://github.com/Kevin-Lago/java-guide) <img width=1000/> | [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/src/)<img width=1000> |
-|:---|:---:|---:|
+|:---------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------:|
 
 # Annotations
 
@@ -31,7 +31,7 @@
 
 - Java comes with many built-in Annotations! 
 
-- Here're some examples of built-in Marker Annotations:
+- Here are some examples of built-in Marker Annotations:
 
 - [@Override](https://docs.oracle.com/javase/7/docs/api/java/lang/Override.html)
     
@@ -137,7 +137,7 @@ public @interface MarkerAnnotation {}
 
 - Single-Value Annotations store a single value. 
 
-- Here're some examples of built-in Single-Value Annotations:
+- Here are some examples of built-in Single-Value Annotations:
 
 - [@Value]()
 
@@ -145,4 +145,4 @@ public @interface MarkerAnnotation {}
 
 
 | <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/src/) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/src/) |
-|:---|:---:|---:|
+|:---------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------:|
