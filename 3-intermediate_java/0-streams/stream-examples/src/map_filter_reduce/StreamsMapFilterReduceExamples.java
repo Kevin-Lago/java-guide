@@ -3,9 +3,7 @@ package map_filter_reduce;
 import data.Person;
 import lists.People;
 
-import java.util.stream.Stream;
-
-public class SimpleMapFilterReduceExamples {
+public class StreamsMapFilterReduceExamples {
     public static void main(String[] args) {
         countEmptyNames();
         countNames();

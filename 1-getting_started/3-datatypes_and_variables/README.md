@@ -1,17 +1,17 @@
 | [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/src/) <img width=1000/> | [Home](https://github.com/Kevin-Lago/java-guide) <img width=1000/> | [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/src/)<img width=1000> |
 |:---------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------:|
 
-# Arrays
+# Datatypes and Variables
 
-## Basics
+## Datatypes
 
-## Declaring Arrays
+- Java is a Type-Asserted language. This means that a variable must be assigned a datatype and that datatype can not change during the life of that variable.
 
-## Initializing Arrays
+## Variables
 
-## Array Elements
+## Operators
 
-## Loops and Arrays
+
 
 | <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/src/) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/src/) |
 |:---------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------:|

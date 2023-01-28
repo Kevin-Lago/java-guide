@@ -1,10 +1,10 @@
-package merging_streams;
+package concat_streams;
 
 import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class SimpleStreamMergeExamples {
+public class StreamsConcatExamples {
     public static void main(String[] args) {
         mergeTwoStringStreamsAndCountValues();
     }

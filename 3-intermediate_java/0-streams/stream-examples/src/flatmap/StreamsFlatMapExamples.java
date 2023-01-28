@@ -2,7 +2,7 @@ package flatmap;
 
 import lists.Cities;
 
-public class SimpleFlatMapExamples {
+public class StreamsFlatMapExamples {
     public static void main(String[] args) {
         countPeopleFromCities();
         print();

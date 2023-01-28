@@ -38,7 +38,8 @@
 - [ ] [Sorting]()
 - [ ] [Annotations]()
 - [ ] [Enumerated Types]()
-- [ ] [Working with Files]() <!-- Might split; xml, scv, xls, xlsx, txt, json ect -->
+- [ ] [Working with Files]()
+- [ ] [Java Versions]()
 
 <h3> Unit 4 - Advanced Java </h3>
 
@@ -46,6 +47,7 @@
 - [ ] [Reflection API]()
 - [ ] [Serialization]()
 - [ ] [Multithreading]()
+- [ ] [GUIs]()
 
 TBD...
 

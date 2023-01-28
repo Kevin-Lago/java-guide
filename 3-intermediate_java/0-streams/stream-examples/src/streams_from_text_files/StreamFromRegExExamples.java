@@ -12,11 +12,9 @@ public class StreamFromRegExExamples {
         String sentence = "The quick brown fox jumped over the lazy dog";
         String[] words = sentence.split(" ");
 
-//        Stored array in memory
         long count = Arrays.stream(words).count();
         System.out.println(count);
 
-//        Less CPU and memory usage
         Pattern pattern = Pattern.compile(" ");
         System.out.println(pattern.splitAsStream(sentence).count());
     }

@@ -6,7 +6,7 @@ import lists.People;
 import java.util.Arrays;
 import java.util.stream.Stream;
 
-public class SimpleArrayStreamExamples {
+public class StreamsToArrayExamples {
     public static void main(String[] args) {
         arraysStream();
     }

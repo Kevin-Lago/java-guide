@@ -3,7 +3,7 @@ package maps;
 import data.Car;
 import lists.Cars;
 
-public class SimpleMapExamples {
+public class StreamsMapExamples {
     public static void main(String[] args) {
         mapCylinderCountsFromCars();
         mapEnginesFromCars();

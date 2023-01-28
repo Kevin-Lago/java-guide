@@ -3,8 +3,7 @@ package filters;
 import lists.Cars;
 import lists.People;
 
-public class SimpleFilterExamples {
-
+public class StreamsFilterExamples {
     public static void main(String[] args) {
         filterPeopleByAge(20);
         filterPeopleByContainsString("a");
