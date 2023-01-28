@@ -30,8 +30,17 @@
 
 ## Correctness
 
-## Rabbit in the Hole
+- Must return a value
 
+- Must complete execution in a finite amount of time
+
+- Must output the same result everytime for a given input set
+
+- There are two types of correctness;
+
+    - Partial Correctness
+
+    - Total Correctness
 
 
 | <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/src/) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/src/) |
