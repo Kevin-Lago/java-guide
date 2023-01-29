@@ -51,25 +51,27 @@
 
 ## Time Complexity
 
-[//]: # (Polynomial Runtimes)
+[//]: # (Polynomial Times)
 
 > In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm. - [Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
 
-- Constant Runtime: O(1)
-- Logarithmic Runtime: O(log n) or O(ln n)
-- Linear Runtime: O(n)
-- Quadratic Runtime: O(n<sup>2</sup>)
-- Quasilinear Runtime: O(n log n)
+- Big O notation represents the [Worst-case Complexity](https://en.wikipedia.org/wiki/Worst-case_complexity) of an algorithm.
+
+- Constant Time: O(1)
+- Logarithmic Time: O(log n) or O(ln n)
+- Linear Time: O(n)
+- Quadratic Time: O(n<sup>2</sup>)
+- Quasilinear Time: O(n log n)
 
 ![Polynomial Time Complexity Graph](./polynomial_time_complexity_graph_dark.svg#gh-dark-mode-only)
 ![Polynomial Time Complexity Graph](./polynomial_time_complexity_graph_light.svg#gh-light-mode-only)
 
-[//]: # (Exponential Runtimes)
+[//]: # (Exponential Times)
 
-- Factorial or Combinatorial Runtime: O(n!)
-- Exponential Runtime: O(2<sup>n</sup>)
+- Factorial or Combinatorial Time: O(n!)
+- Exponential Time: O(2<sup>n</sup>)
 
-- An exponential Runtime is an algorithm with a big O value of some number raised to the n<sup>th</sup> value.
+- We use Theta ($\theta$) to represent the [Average-case Complexity](https://en.wikipedia.org/wiki/Average-case_complexity) of an algorithm.
 
 ## Space Complexity
 
