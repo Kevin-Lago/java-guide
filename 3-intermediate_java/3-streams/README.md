@@ -17,12 +17,12 @@
 
 - Streams with try/catch
 
-- Doesnt duplicated elements. Perfect for map filter reduce
+- Doesn't duplicate elements. Perfect for map filter reduce
 - A Stream object does not duplicate data.
 - A Stream object is an empty Object.
 - Creating a Stream object does not create any load on memory or cpu.
 - A Stream object instance can not be processed more than once. Either terminal or intermediate operations
-- It doesnt make sense to store Streams in a variable. We inline the methods and use a terminal operation all in one go.
+- It doesn't make sense to store Streams in a variable. We inline the methods and use a terminal operation all in one go.
 
 ## Flatmap
 

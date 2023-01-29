@@ -5,8 +5,8 @@
 <h3> Unit 1 - Getting Started </h3>
 
 - [x] [Introduction](https://github.com/Kevin-Lago/java-guide/tree/main/1-getting_started/1-introduction)
-- [ ] [Datatypes and Variables](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Statements and Expressions](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Datatypes and Variables](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Loops and Logic](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Methods](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Arrays](https://github.com/Kevin-Lago/java-guide/tree/main/)
@@ -22,32 +22,33 @@
 - [ ] [Composition](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Inheritance](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Polymorphism](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Enumerated Types](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Annotations](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Exceptions](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Java Versions](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Java Docs](https://github.com/Kevin-Lago/java-guide/tree/main/)
 
 <h3> Unit 3 - Intermediate Java </h3>
 
-- [ ] [Collections]()
-- [ ] [Maps]()
-- [ ] [Exceptions]()
-- [ ] [Structured Data]()
-- [ ] [Functional Interfaces]()
-- [ ] [Lambdas]()
-- [ ] [Generics]()
-- [ ] [Streams]()
-- [ ] [Filtering]()
-- [ ] [Searching]()
-- [ ] [Sorting]()
-- [ ] [Annotations]()
-- [ ] [Enumerated Types]()
-- [ ] [Working with Files]()
-- [ ] [Java Versions]()
+- [ ] [Collections](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Maps](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Streams](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Lambdas](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Generics](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Algorithms](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Structured Data](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Filtering](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Searching](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Sorting](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Working with Files](https://github.com/Kevin-Lago/java-guide/tree/main/)
 
 <h3> Unit 4 - Advanced Java </h3>
 
-- [ ] [Java Beans]()
-- [ ] [Reflection API]()
-- [ ] [Serialization]()
-- [ ] [Multithreading]()
-- [ ] [GUIs]()
+- [ ] [Java Beans](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Reflection API](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Serialization](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Multithreading](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Advanced Algorithms](https://github.com/Kevin-Lago/java-guide/tree/main/)
 
 TBD...
 
@@ -57,44 +58,42 @@ TBD...
 
 <h3> Unit 5 - Application Programming Interfaces </h3>
 
-lesson 1 - SpringBoot
-lesson 2 - Spring, MVC and Tomcat
-lesson 1 - Web Apps
-lesson 2 - HTTP
-lesson 3 - REST
-lesson 4 - SOAP
-lesson 5 - JSON
-lesson 8 - Documentation and Swagger
-lesson 9 - Spring REST Controller
-lesson 10 - Spring SOAP Controller
-lesson 11 - Basic Web Interfaces
+- [ ] [Web Apps](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [HTTP](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [REST](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [SOAP](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [JSON](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Spring Boot](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Spring MVC and Tomcat](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Documentation and Swagger](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Spring REST Controller](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Spring SOAP Controller](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Basic Web Interfaces](https://github.com/Kevin-Lago/java-guide/tree/main/)
 
-<h3> Unit 6 - Relational Databases </h3>
+<h3> Unit 6 - Databases </h3>
 
-lesson 2 - Relational Databases
-lesson 3 - Data Modeling
-lesson 4 - Joins
-lesson 5 - JDBC
-lesson 6 - JPA
+- [ ] [Relational Databases](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [MySQL](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [OracleSQL](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Data Modeling](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Joins](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [JDBC](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [JPA](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Non-relational Databases](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Cassandra](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Mongoose](https://github.com/Kevin-Lago/java-guide/tree/main/)
 
-<h3> Unit 7 - Nonrelational Databases</h3>
+<h3> Unit 7 - Spring Boot </h3>
 
-lesson ? - Cassandra
-lesson ? - Mongoose
-
-<h3> Unit 8 - Spring Boot <h3>
-
-lesson ? - OAuth
 Lesson ? - Spring Security
 lesson ? - RabbitMQ
+lesson ? - Kafka
 lesson ? - Queues
 lesson ? - Caching Data
 lesson ? - Circuit Breakers
-lesson ? - JUnit
 lesson ? - Thymeleaf
-lesson ? - Mockito
 
-<h3> Unit 9 - Testing </h3>
+<h3> Unit 8 - Testing </h3>
 
 lesson ? - Test Driven Development
 lesson ? - JUnit
@@ -121,7 +120,15 @@ lesson ? - Jenkins
 
 </details>
 
+## Overflow
+
+- [ ] [Functional Interfaces](https://github.com/Kevin-Lago/java-guide/tree/main/)
+
 ## Unit ? - Versions <!-- Not sure what I'll do with this.. but I'd like to explain the differences of each version -->
 lesson 1 - Early Java
 lesson 2 - Java 7 and Java 8
 lesson 4 - Java Beyond
+
+
+- Tail Optimization / Tail Call Optimization
+

@@ -5,12 +5,12 @@ import java.util.Arrays;
 public class BinarySearch {
     public static void main(String[] args) {
         int[] intArray = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-//        binarySearchArray(intArray, 5);
+        linearBinarySearchArray(intArray, 5);
 
         recursiveBinarySearch(intArray, 7);
     }
 
-    public static void binarySearchArray(int[] intArray, int target) {
+    public static void linearBinarySearchArray(int[] intArray, int target) { // Constant Space Complexity
         int first = 0; // Constant Time
         int last = intArray.length - 1; // Constant Time
 
@@ -30,7 +30,7 @@ public class BinarySearch {
         System.out.println("Target " + target + " not found");
     }
 
-    public static void recursiveBinarySearch(int[] intArray, int target) {
+    public static void recursiveBinarySearch(int[] intArray, int target) { // Logarithmic Space Complexity - Depends on 'Tail Call Optimization'
         if (intArray.length == 0) { // Constant Time
             System.out.println("Target " + target + " not found");
             return;
