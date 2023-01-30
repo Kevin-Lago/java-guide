@@ -23,9 +23,17 @@
 
 - An Array is a contiguous data structure. Meaning there are no gaps in memory between elements.
 
+## Heap
+
+## Max-heap
+
+## Min-heap
+
 ## Linked Lists
 
 - Contains a pointer in memory to the next value. 
+
+## Priority Queue
 
 ## Trees
 

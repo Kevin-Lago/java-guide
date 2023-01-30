@@ -1,4 +1,4 @@
-# Java Guide
+# Java Guide !WORK IN PROGRESS!
 
 <details><summary><h2>Vanilla Java</h2></summary>
 
@@ -132,3 +132,8 @@ lesson 4 - Java Beyond
 
 - Tail Optimization / Tail Call Optimization
 
+## Sources 
+
+- [FreeCodeCamp Algorithms and Data Structures](https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/)
+- [MIT OpenCourseWare 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
+- [Introduction to Algorithms - 4th Edition](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)

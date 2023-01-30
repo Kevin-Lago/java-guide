@@ -9,6 +9,8 @@
 
 - Algorithms have existed for forever. 
 
+- Algorithms are a well-defined set of steps that take one or more values as an input and produce one or more values as an output in a finite amount of time. 
+
 ## Algorithmic Thinking
 
 - Break down your problems.
@@ -60,8 +62,8 @@
 - Constant Time: O(1)
 - Logarithmic Time: O(log n) or O(ln n)
 - Linear Time: O(n)
-- Quadratic Time: O(n<sup>2</sup>)
 - Quasilinear Time: O(n log n)
+- Quadratic Time: O(n<sup>2</sup>)
 
 ![Polynomial Time Complexity Graph](./polynomial_time_complexity_graph_dark.svg#gh-dark-mode-only)
 ![Polynomial Time Complexity Graph](./polynomial_time_complexity_graph_light.svg#gh-light-mode-only)
