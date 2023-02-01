@@ -4,10 +4,11 @@ import java.util.Arrays;
 
 public class BinarySearch {
     public static void main(String[] args) {
-        int[] intArray = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-        linearBinarySearchArray(intArray, 5);
-
-        recursiveBinarySearch(intArray, 7);
+        byte test = Byte.
+//        int[] intArray = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+//        linearBinarySearchArray(intArray, 5);
+//
+//        recursiveBinarySearch(intArray, 7);
     }
 
     public static void linearBinarySearchArray(int[] intArray, int target) { // Constant Space Complexity

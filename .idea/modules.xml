@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/2-beginner_java/11-annotations/0-annotations.iml" filepath="$PROJECT_DIR$/2-beginner_java/11-annotations/0-annotations.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4-advanced_java/3-serialization/3-serialization.iml" filepath="$PROJECT_DIR$/4-advanced_java/3-serialization/3-serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-beginner_java/11-annotations/0-annotations.iml" filepath="$PROJECT_DIR$/02-beginner_java/11-annotations/0-annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-guide.iml" filepath="$PROJECT_DIR$/.idea/java-guide.iml" />
     </modules>
   </component>
