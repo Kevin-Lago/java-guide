@@ -1,5 +1,5 @@
-| [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/05-debugging) <img width=1000/> | [Home](https://github.com/Kevin-Lago/java-guide) <img width=1000/> | [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/01-getting_started/07-arrays)<img width=1000> |
-|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------------------------------:|
+| [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/05-debugging) <img width=1000/> | [Home](https://github.com/Kevin-Lago/java-guide) <img width=1000/> | [Next Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/07-arrays)<img width=1000> |
+|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------:|
 
 # Methods
 
@@ -118,5 +118,5 @@ public static String returnFullName(String firstName, String lastName) {
 }
 ```
 
-| <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/05-debugging) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/01-getting_started/07-arrays) |
-|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------------------:|
+| <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/05-debugging) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/07-arrays) |
+|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------------------:|

@@ -1,5 +1,5 @@
-| [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/02-datatypes_and_variables) <img width=1000/> | [Home](https://github.com/Kevin-Lago/java-guide) <img width=1000/> | [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/01-getting_started/04-loops_and_logic)<img width=1000> |
-|:------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------------------------------:|
+| [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/02-datatypes_and_variables) <img width=1000/> | [Home](https://github.com/Kevin-Lago/java-guide) <img width=1000/> | [Next Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/04-loops_and_logic)<img width=1000> |
+|:--------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------------------------:|
 
 # Statements and Expressions
 
@@ -133,5 +133,5 @@ int intVariable = 5;
 	- for
 	- while
 
-| <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/02-datatypes_and_variables) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/01-getting_started/04-loops_and_logic) |
-|:------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------:|
+| <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/02-datatypes_and_variables) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/04-loops_and_logic) |
+|:--------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------------:|

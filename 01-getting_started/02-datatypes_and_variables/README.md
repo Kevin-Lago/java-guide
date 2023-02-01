@@ -1,5 +1,5 @@
-| [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/01-introduction) <img width=1000/> | [Home](https://github.com/Kevin-Lago/java-guide) <img width=1000/> | [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/01-getting_started/03-statements_and_expressions)<img width=1000> |
-|:-------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------:|
+| [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/01-introduction) <img width=1000/> | [Home](https://github.com/Kevin-Lago/java-guide) <img width=1000/> | [Next Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/03-statements_and_expressions)<img width=1000> |
+|:---------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------------------------:|
 
 # Data-types and Variables
 
@@ -225,5 +225,5 @@ public class Apple {
 - Bitwise Operators: &, |, ~, ^, <<, >>, >>>
 - Bitwise Operators are used to manipulate the bit values of either an Integer or long Integer.
 
-| <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/01-introduction) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/01-getting_started/03-statements_and_expressions) |
-|:-------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/01-introduction) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/03-statements_and_expressions) |
+|:---------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------------------------------------:|
