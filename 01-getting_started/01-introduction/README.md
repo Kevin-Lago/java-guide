@@ -1,5 +1,5 @@
-| [Home](https://github.com/Kevin-Lago/java-guide) <img width=1000/> | [Next Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/02-statements_expressions)<img width=1000> |
-|:------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------------------------------:|
+| [Home](https://github.com/Kevin-Lago/java-guide) <img width=1000/> | [Next Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/02-datatypes_and_variables)<img width=1000> |
+|:------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------:|
 
 # Introduction
 
@@ -71,6 +71,6 @@
 
 	- Thymeleaf
 
-| <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000/> [Next Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/02-statements_expressions) |
-|:------------------------------------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------:|
+| <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000/> [Next Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/02-datatypes_and_variables) |
+|:------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------------------------------------:|
 
