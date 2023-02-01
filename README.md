@@ -4,13 +4,13 @@
 
 <h3> Unit 1 - Getting Started </h3>
 
-- [x] [Introduction](https://github.com/Kevin-Lago/java-guide/tree/main/1-getting_started/01-introduction)
-- [ ] [Statements and Expressions](https://github.com/Kevin-Lago/java-guide/tree/main/1-getting_started/02-statements_and_expressions)
-- [ ] [Datatypes and Variables](https://github.com/Kevin-Lago/java-guide/tree/main/1-getting_started/03-datatypes_and_variables)
-- [ ] [Loops and Logic](https://github.com/Kevin-Lago/java-guide/tree/main/1-getting_started/04-loops_and_logic)
-- [ ] [Debugging](https://github.com/Kevin-Lago/java-guide/tree/main/1-getting_started/05-debuggging)
-- [ ] [Methods](https://github.com/Kevin-Lago/java-guide/tree/main/1-getting_started/06-methods)
-- [ ] [Arrays](https://github.com/Kevin-Lago/java-guide/tree/main/1-getting_started/07-arrays)
+- [x] [Introduction](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/01-introduction)
+- [ ] [Statements and Expressions](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/02-statements_and_expressions)
+- [ ] [Datatypes and Variables](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/03-datatypes_and_variables)
+- [ ] [Loops and Logic](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/04-loops_and_logic)
+- [ ] [Debugging](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/05-debuggging)
+- [ ] [Methods](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/06-methods)
+- [ ] [Arrays](https://github.com/Kevin-Lago/java-guide/tree/main/01-getting_started/07-arrays)
 
 <h3> Unit 2 - Beginner Java </h3>
 
