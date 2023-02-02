@@ -15,7 +15,7 @@
 
 - Annotations can be used on Classes, Constructors, Methods, Arguments, Variables ect...
 
-- There're 5 categories of annotations: - [Geeks for Geeks](https://www.geeksforgeeks.org/annotations-in-java/)
+- There are 5 categories of annotations: - [Geeks for Geeks](https://www.geeksforgeeks.org/annotations-in-java/)
 
     - Marker Annotations
 
