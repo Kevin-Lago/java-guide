@@ -19,6 +19,8 @@
 
 ## Code 39
 
+- 
+
 ## Sources
 
 - [IBM](https://www.ibm.com/ibm/history/ibm100/us/en/icons/upc/?utm_medium=OSocial&utm_source=Linkedin&utm_content=IMBWW&utm_id=IBM-LI-UPC-2322&social_post=6285928894&linkId=150718763)

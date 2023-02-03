@@ -53,8 +53,6 @@
 
 ## Time Complexity
 
-[//]: # (Polynomial Times)
-
 > In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm. - [Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
 
 - Big O notation represents the [Worst-case Complexity](https://en.wikipedia.org/wiki/Worst-case_complexity) of an algorithm.
@@ -68,12 +66,10 @@
 ![Polynomial Time Complexity Graph](./polynomial_time_complexity_graph_dark.svg#gh-dark-mode-only)
 ![Polynomial Time Complexity Graph](./polynomial_time_complexity_graph_light.svg#gh-light-mode-only)
 
-[//]: # (Exponential Times)
-
 - Factorial or Combinatorial Time: O(n!)
 - Exponential Time: O(2<sup>n</sup>)
 
-- We use Theta ($\theta$) to represent the [Average-case Complexity](https://en.wikipedia.org/wiki/Average-case_complexity) of an algorithm.
+- We use Theta $\theta$ to represent the [Average-case Complexity](https://en.wikipedia.org/wiki/Average-case_complexity) of an algorithm.
 
 ## Space Complexity
 
@@ -94,23 +90,9 @@
 
 
 
-## Document Distance Problem
+## Rabbit in the Hole
 
-- 8 different implementations of the Document Distance Algorithm
-  
-
-- A document is a sequence of words.
-- A word is a sequence of alphanumeric characters.
-- Compare shared words and calculate document distance.
-- You can think of a document as a vector.
-- D[w] = # of occurrences of w in D
-- D<sub>1</sub> = "the cat"
-- D<sub>2</sub> = "the dog"
-
-- Algorithm
-  - split document into words
-  - computer word frequencies
-  - dot product
+## The Fibonacci Series
 
 | <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/src/) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/src/) |
 |:---------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------:|
