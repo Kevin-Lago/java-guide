@@ -70,7 +70,7 @@
 
 - We use Theta $\theta$ to represent the [Average-case Complexity](https://en.wikipedia.org/wiki/Average-case_complexity) of an algorithm.
 
-- We use Omega $\omega$ to represent the 
+- We use Omega $\Omega$ to represent the 
 
 ## Space Complexity
 
