@@ -13,13 +13,19 @@
     - Linear Barcodes
     - Matrix (2D) Barcodes
 
+## Linear Barcodes
+
+
+
 ## Universal Product Codes (UPCs)
 
 - Universal Product Codes
 
 ## Code 39
 
-- 
+- The Code 39 specification defines 43 characters.
+- Characters are split into sections by patterns of "dots" and "dashes".
+- Each barcode is prefixed and suffixed by an ```*```.
 
 ## Sources
 

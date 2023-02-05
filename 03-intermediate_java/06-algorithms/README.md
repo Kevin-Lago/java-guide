@@ -7,14 +7,12 @@
 
 > The word algorithm is derived from the Latin translation, Algoritmi de numero Indorum, of the 9th-century Persian mathematician [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi)'s arithmetic treatise “Al-Khwarizmi Concerning the Hindu Art of Reckoning” - [Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 
-- Algorithms have existed for forever. 
-
+- Algorithms have existed for forever.
 - Algorithms are a well-defined set of steps that take one or more values as an input and produce one or more values as an output in a finite amount of time. 
 
 ## Algorithmic Thinking
 
 - Break down your problems.
-
 - define the set of steps for getting an output from a given input.
 
 ## Computability Theory
@@ -55,8 +53,9 @@
 
 > In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm. - [Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
 
-- Big O notation represents the [Worst-case Complexity](https://en.wikipedia.org/wiki/Worst-case_complexity) of an algorithm.
+- Time Complexity can be split by [Best, Worst and Average](https://en.wikipedia.org/wiki/Best,_worst_and_average_case) runtimes.
 
+- Big O notation represents the [Worst-case Complexity](https://en.wikipedia.org/wiki/Worst-case_complexity) of an algorithm.
 - Constant Time: O(1)
 - Logarithmic Time: O(log n) or O(ln n)
 - Linear Time: O(n)
@@ -70,6 +69,8 @@
 - Exponential Time: O(2<sup>n</sup>)
 
 - We use Theta $\theta$ to represent the [Average-case Complexity](https://en.wikipedia.org/wiki/Average-case_complexity) of an algorithm.
+
+- We use Omega $\omega$ to represent the 
 
 ## Space Complexity
 
@@ -88,11 +89,47 @@
 
 ## Calculating Space and Time Complexity
 
+- 
+
+## Memoization
+
+- 
+
 
 
 ## Rabbit in the Hole
 
+- You are given a list of 100 length and the position of a 'rabbit' in the list. The rabbit can move one space in either direction. You're only allowed to check one space at a time. What's the most efficient algorithm for finding the rabbit?
+
 ## The Fibonacci Series
+
+> In mathematics, the Fibonacci numbers, commonly denoted F<sub>n</sub>, form a sequence, the Fibonacci sequence, in which each number is the sum of the two preceding ones. The sequence commonly starts from 0 and 1, although some authors start the sequence from 1 and 1 or sometimes (as did Fibonacci) from 1 and 2. Starting from 0 and 1, the first few values in the sequence are:
+> 
+> 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144.
+> 
+> The Fibonacci numbers were first described in Indian mathematics, as early as 200 BC in work by Pingala on enumerating possible patterns of Sanskrit poetry formed from syllables of two lengths. They are named after the Italian mathematician Leonardo of Pisa, later known as Fibonacci, who introduced the sequence to Western European mathematics in his 1202 book Liber Abaci.
+> 
+> - [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number)
+
+- Without storing the subsequent values, find the n<sup>th</sup> fibonacci number.
+
+```java
+    public static int fibonacciSeries(int n) {
+        for (int i = n; i > 0; i--) {
+            if (i < 2) {
+                return 1;
+            }
+            return fibonacciSeries(i - 1) + fibonacciSeries(i - 2);
+        }
+        return 0;
+    }
+```
+
+- Using memoization and not storing the subsequent values, find the n<sup>th</sup> fibonacci number.
+
+```java
+
+```
 
 | <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/src/) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/src/) |
 |:---------------------------------------------------------------------------------------------|:------------------------------------------------------------------:|-------------------------------------------------------------------------------------------------------:|
