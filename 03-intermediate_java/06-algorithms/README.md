@@ -53,24 +53,32 @@
 
 > In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm. - [Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
 
-- Time Complexity can be split by [Best, Worst and Average](https://en.wikipedia.org/wiki/Best,_worst_and_average_case) runtimes.
+- Time Complexity can be separated by [Best, Worst and Average](https://en.wikipedia.org/wiki/Best,_worst_and_average_case) runtimes.
 
 - Big O notation represents the [Worst-case Complexity](https://en.wikipedia.org/wiki/Worst-case_complexity) of an algorithm.
+- We use Theta $\theta$ to represent the [Average-case Complexity](https://en.wikipedia.org/wiki/Average-case_complexity) of an algorithm.
+- We use Omega $\Omega$ to represent the Best-case Complexity of an Algorithm.
+
 - Constant Time: O(1)
 - Logarithmic Time: O(log n) or O(ln n)
 - Linear Time: O(n)
 - Quasilinear Time: O(n log n)
 - Quadratic Time: O(n<sup>2</sup>)
 
-![Polynomial Time Complexity Graph](./polynomial_time_complexity_graph_dark.svg#gh-dark-mode-only)
-![Polynomial Time Complexity Graph](./polynomial_time_complexity_graph_light.svg#gh-light-mode-only)
+![Polynomial Time Complexity Graph](assets/polynomial_time_complexity_graph_dark.svg#gh-dark-mode-only)
+![Polynomial Time Complexity Graph](assets/polynomial_time_complexity_graph_light.svg#gh-light-mode-only)
 
 - Factorial or Combinatorial Time: O(n!)
 - Exponential Time: O(2<sup>n</sup>)
 
-- We use Theta $\theta$ to represent the [Average-case Complexity](https://en.wikipedia.org/wiki/Average-case_complexity) of an algorithm.
+![Exponential Time Complexity Graph](assets/exponential_time_complexity_graph_dark.svg#gh-dark-mode-only)
+![Exponential Time Complexity Graph](assets/exponential_time_complexity_graph_light.svg#gh-light-mode-only)
 
-- We use Omega $\Omega$ to represent the 
+- Full Graphs
+
+![Full Time Complexity Graph](assets/full_time_complexity_graph_dark.svg#gh-dark-mode-only)
+![Full Time Complexity Graph](assets/full_time_complexity_graph_light.svg#gh-light-mode-only)
+
 
 ## Space Complexity
 
