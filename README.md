@@ -24,7 +24,7 @@
 - [ ] [Inheritance](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Polymorphism](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Enumerated Types](https://github.com/Kevin-Lago/java-guide/tree/main/)
-- [ ] [Annotations](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Annotations](https://github.com/Kevin-Lago/java-guide/tree/main/02-beginner_java/11-annotations)
 - [ ] [Exceptions](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Java Versions](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Java Docs](https://github.com/Kevin-Lago/java-guide/tree/main/)

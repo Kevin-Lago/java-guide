@@ -15,6 +15,34 @@
 
 - Annotations can be used on Classes, Constructors, Methods, Arguments, Variables ect...
 
+```java
+public @interface ExampleAnnotation {
+
+}
+```
+
+- An annotation, at its most basic, is created using an access modifier, the @interface type and an identifier.
+
+```java
+@Target(ElementType.METHOD)
+public @interface ExampleMethodAnnotation {
+
+}
+```
+
+- We use the [@Target](https://docs.oracle.com/javase/8/docs/api/java/lang/annotation/Target.html) annotation to define where the annotation is meant to be used.
+
+```java
+@Retention(RetentionPolicy.CLASS)
+public @interface ClassRetentionAnnotation {
+    String value() default "Discarded at Runtime";
+}
+```
+
+- Finally we use the [@Retention](https://docs.oracle.com/javase/8/docs/api/java/lang/annotation/Retention.html) annotation to define when an annotation can be discarded.
+
+- By default an annotation will inherit a retention policy of RetentionPolicy.CLASS.
+
 - There are 5 categories of annotations: - [Geeks for Geeks](https://www.geeksforgeeks.org/annotations-in-java/)
 
     - Marker Annotations
@@ -56,7 +84,7 @@ public @interface Override {}
 public @interface Documented {}
 ```
 
-- [@Deprecated](https://docs.oracle.com/javase/8/docs/api/java/lang/Deprecated.html) Java version <8 ?????????
+- [@Deprecated](https://docs.oracle.com/javase/8/docs/api/java/lang/Deprecated.html)
 
     - Indicates that the annotated method is deprecated.
 
@@ -69,7 +97,7 @@ public @interface Documented {}
 public @interface Deprecated {}
 ```
 
-- @SafeVarargs ????????
+- [@SafeVarargs](https://docs.oracle.com/javase/8/docs/api/java/lang/SafeVarargs.html)
 
     -
 
