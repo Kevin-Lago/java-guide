@@ -5,6 +5,8 @@
 
 > Annotations, a form of metadata, provide data about a program that is not part of the program itself. Annotations have no direct effect on the operation of the code they annotate. - [Oracle Docs](https://docs.oracle.com/javase/tutorial/java/annotations/)
 
+- Examples of annotations can be found [here](https://github.com/Kevin-Lago/java-vanilla-annotations). I recommend using breakpoints and exploring the debugger.
+
 - Annotations are useful for providing additional logic to our code. Some examples include:
 
     - Information for the compiler
@@ -59,12 +61,13 @@ public @interface ClassRetentionAnnotation {
 
 - Java comes with many built-in Annotations! 
 
+## Marker Annotations
+
 - Here are some examples of built-in Marker Annotations:
 
 - [@Override](https://docs.oracle.com/javase/7/docs/api/java/lang/Override.html)
     
     - Indicates that the annotated method is being overridden from its parent class.
-
     - Throws a warning if the annotated method is not overridding a method.
 
 ```java
@@ -86,9 +89,8 @@ public @interface Documented {}
 
 - [@Deprecated](https://docs.oracle.com/javase/8/docs/api/java/lang/Deprecated.html)
 
-    - Indicates that the annotated method is deprecated.
-
-    - Throws a warning if the annotated method is used.
+    - Indicates that the annotated constructor, field, variable, method, package or parameter is deprecated.
+    - Throws a warning if the annotated constructor, field, variable, method, package or parameter is used.
 
 ```java
 @Documented
@@ -111,7 +113,6 @@ public @interface SafeVarargs {}
 - [@FunctionalInterface](https://docs.oracle.com/javase/8/docs/api/java/lang/FunctionalInterface.html)
 
     - Indicates that the annotated class, enum or annotation is intended to be a [Functional Interface](https://www.geeksforgeeks.org/functional-interfaces-java/)
-
     - Throws a warning if the annotated class, enum or annotation does not satisfy the requirements of a Functional Interface
 
 ```java
@@ -153,8 +154,9 @@ public @interface Native {}
 @interface InjectedProfile {}
 ```
 
-- We can also create our own custom Annotations! Lets look at an example of a Marker Annotation.
+---
 
+- We can also create our own custom Annotations! Lets look at an example of a Marker Annotation.
 - Here we're defining an annotation ```MarkerAnnotation``` which will be used during runtime and ????
 
 ```java
