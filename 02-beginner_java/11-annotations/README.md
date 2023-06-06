@@ -15,7 +15,7 @@
 
     - Runtime processing
 
-- Annotations can be used on Classes, Constructors, Methods, Arguments, Variables ect...
+- Annotations can be used on Classes, Interfaces, Enumerated Types, Records, Fields, Methods, Parameters, Constructors, Other Annotations, Packages, and Modules.
 
 ```java
 public @interface ExampleAnnotation {
@@ -63,6 +63,16 @@ public @interface ClassRetentionAnnotation {
 
 ## Marker Annotations
 
+- Lets look at an example of a Marker Annotation.
+- Here we're defining an annotation ```MarkerAnnotation``` which will persist through runtime.
+- As the name suggests we can use Marker Annotations to mark elements for extra logic or simply to indicate information.
+
+```java
+@Retention(RetentionPolicy.RUNTIME)
+@Target(ElementType.TYPE)
+public @interface MarkerAnnotation {}
+```
+
 - Here are some examples of built-in Marker Annotations:
 
 - [@Override](https://docs.oracle.com/javase/7/docs/api/java/lang/Override.html)
@@ -89,8 +99,8 @@ public @interface Documented {}
 
 - [@Deprecated](https://docs.oracle.com/javase/8/docs/api/java/lang/Deprecated.html)
 
-    - Indicates that the annotated constructor, field, variable, method, package or parameter is deprecated.
-    - Throws a warning if the annotated constructor, field, variable, method, package or parameter is used.
+    - Indicates that the annotated element is deprecated.
+    - Throws a warning if the annotated element is used.
 
 ```java
 @Documented
@@ -101,7 +111,7 @@ public @interface Deprecated {}
 
 - [@SafeVarargs](https://docs.oracle.com/javase/8/docs/api/java/lang/SafeVarargs.html)
 
-    -
+    - Indicates that the annotated elements do not perform potentially unsafe operations on its varargs parameter.
 
 ```java
 @Documented
@@ -112,8 +122,8 @@ public @interface SafeVarargs {}
 
 - [@FunctionalInterface](https://docs.oracle.com/javase/8/docs/api/java/lang/FunctionalInterface.html)
 
-    - Indicates that the annotated class, enum or annotation is intended to be a [Functional Interface](https://www.geeksforgeeks.org/functional-interfaces-java/)
-    - Throws a warning if the annotated class, enum or annotation does not satisfy the requirements of a Functional Interface
+    - Indicates that the annotated element is intended to be a [Functional Interface](https://www.geeksforgeeks.org/functional-interfaces-java/)
+    - Throws a warning if the element does not satisfy the requirements of a Functional Interface
 
 ```java
 @Documented
@@ -124,7 +134,7 @@ public @interface FunctionalInterface {}
 
 - [@Inherited](https://docs.oracle.com/javase/8/docs/api/java/lang/annotation/Inherited.html)
 
-    - ??????????
+    - Indicates that the annotated element is automatically inherited.
 
 ```java
 @Documented
@@ -156,14 +166,21 @@ public @interface Native {}
 
 ---
 
-- We can also create our own custom Annotations! Lets look at an example of a Marker Annotation.
-- Here we're defining an annotation ```MarkerAnnotation``` which will be used during runtime and ????
+## Single Value Annotations
 
-```java
-@Retention(RetentionPolicy.RUNTIME)
-@Target(ElementType.TYPE)
-public @interface MarkerAnnotation {}
-```
+---
+
+## Full/Multi-Value Annotations
+
+--- 
+
+## Type Annotations
+
+---
+
+## Repeating Annotations
+
+---
 
 - Single-Value Annotations store a single value. 
 
