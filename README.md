@@ -37,7 +37,8 @@
 - [ ] [Generics](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Algorithms](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Structured Data](https://github.com/Kevin-Lago/java-guide/tree/main/)
-- [ ] [Working with Files](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Files](https://github.com/Kevin-Lago/java-guide/tree/main/)
+- [ ] [Graphics](https://github.com/Kevin-Lago/java-guide/tree/main/)
 
 <h3> Unit 4 - Advanced Java </h3>
 
@@ -46,8 +47,6 @@
 - [ ] [Serialization](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Multithreading](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Advanced Algorithms](https://github.com/Kevin-Lago/java-guide/tree/main/)
-
-TBD...
 
 </details>
 
@@ -116,21 +115,3 @@ lesson ? - Kubernetes
 lesson ? - Jenkins
 
 </details>
-
-## Overflow
-
-- [ ] [Functional Interfaces](https://github.com/Kevin-Lago/java-guide/tree/main/)
-
-## Unit ? - Versions <!-- Not sure what I'll do with this.. but I'd like to explain the differences of each version -->
-lesson 1 - Early Java
-lesson 2 - Java 7 and Java 8
-lesson 4 - Java Beyond
-
-
-- Tail Optimization / Tail Call Optimization
-
-## Sources 
-
-- [FreeCodeCamp Algorithms and Data Structures](https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/)
-- [MIT OpenCourseWare 6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
-- [Introduction to Algorithms - 4th Edition](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
