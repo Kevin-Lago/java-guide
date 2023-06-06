@@ -37,9 +37,6 @@
 - [ ] [Generics](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Algorithms](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Structured Data](https://github.com/Kevin-Lago/java-guide/tree/main/)
-- [ ] [Filtering](https://github.com/Kevin-Lago/java-guide/tree/main/)
-- [ ] [Searching](https://github.com/Kevin-Lago/java-guide/tree/main/)
-- [ ] [Sorting](https://github.com/Kevin-Lago/java-guide/tree/main/)
 - [ ] [Working with Files](https://github.com/Kevin-Lago/java-guide/tree/main/)
 
 <h3> Unit 4 - Advanced Java </h3>
