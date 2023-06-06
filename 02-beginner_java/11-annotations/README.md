@@ -168,9 +168,17 @@ public @interface Native {}
 
 ## Single Value Annotations
 
+- Single-Value Annotations store a single value. 
+
+- Here are some examples of built-in Single-Value Annotations:
+
+- [@Value]()
+
+    - 
+
 ---
 
-## Full/Multi-Value Annotations
+## Full or Multi-Value Annotations
 
 --- 
 
@@ -181,14 +189,6 @@ public @interface Native {}
 ## Repeating Annotations
 
 ---
-
-- Single-Value Annotations store a single value. 
-
-- Here are some examples of built-in Single-Value Annotations:
-
-- [@Value]()
-
-    - 
 
 
 | <img width=1000/> [Previous Lesson](https://github.com/Kevin-Lago/java-guide/tree/main/src/) | <img width=1000/> [Home](https://github.com/Kevin-Lago/java-guide) | <img width=1000> [Next Lesson](https://github.com/Kevin-Lago/java-hackerrank-solutions/tree/main/src/) |
