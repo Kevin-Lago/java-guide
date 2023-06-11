@@ -15,6 +15,19 @@
 - Break down your problems.
 - define the set of steps for getting an output from a given input.
 
+## Correctness
+
+> In theoretical computer science, an algorithm is correct with respect to a specification if it behaves as specified. Best explored is functional correctness, which refers to the input-output behavior of the algorithm (i.e., for each input it produces an output satisfying the specification). - [Wikipedia](https://en.wikipedia.org/wiki/Correctness_(computer_science))
+
+- Must return a value
+- Must complete execution in a finite amount of time
+- Must output the same result everytime for a given input set
+- There are two types of correctness;
+    - Partial Correctness
+    - Total Correctness
+
+---
+
 ## Computability Theory
 
 > Computability theory, also known as recursion theory, is a branch of mathematical logic, computer science, and the theory of computation that originated in the 1930s with the study of computable functions and Turing degrees. The field has since expanded to include the study of generalized computability and definability. In these areas, computability theory overlaps with proof theory and effective descriptive set theory. - [Wikipedia](https://en.wikipedia.org/wiki/Computability_theory)
@@ -39,6 +52,8 @@
 - In a Pointer Machine we have dynamically allocated objects, and Objects have a constant number of fields.
 - A field can be either a word, pointer or null.
 - An example data structure using this model would be the LinkedList, which could contain a value (word), pointer to the next node and a pointer to the previous node. Using this model we can create, update or destroy a node making it dynamic memory allocation.
+
+---
 
 ## Computational Complexity Theory
 
@@ -79,6 +94,11 @@
 ![Full Time Complexity Graph](assets/full_time_complexity_graph_dark.svg#gh-dark-mode-only)
 ![Full Time Complexity Graph](assets/full_time_complexity_graph_light.svg#gh-light-mode-only)
 
+---
+
+## Calculating Time Complexity
+
+---
 
 ## Space Complexity
 
@@ -86,24 +106,19 @@
 
 - Space Complexity is a measure of how much storage is needed for an algorithm to run.
 
-## Correctness
+---
 
-- Must return a value
-- Must complete execution in a finite amount of time
-- Must output the same result everytime for a given input set
-- There are two types of correctness;
-    - Partial Correctness
-    - Total Correctness
+## Calculating Space Complexity
 
-## Calculating Space and Time Complexity
+---
 
-- 
+## Sorting
 
-## Memoization
+Formal definition of a sorting equation
 
-- 
+$\langle a_{1}, a_{2}, ..., a_{n}\rangle$ -> $\langle a'_{1}, a'_{2}, ..., a'_{n}\rangle$
 
-
+---
 
 ## Rabbit in the Hole
 
