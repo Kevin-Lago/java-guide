@@ -116,7 +116,8 @@
 
 Formal definition of a sorting equation
 
-$\langle a_{1}, a_{2}, ..., a_{n}\rangle$ -> $\langle a'_{1}, a'_{2}, ..., a'_{n}\rangle$
+$\langle a_{1}, a_{2}, ..., a_{n}\rangle$ -> 
+$\langle a'_{1}, a'_{2}, ..., a'_{n}\rangle$
 
 ---
 
